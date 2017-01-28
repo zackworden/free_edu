@@ -1,0 +1,633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"playlist",
+				"playlistOrder"
+			],
+			[
+				"play",
+				"playlistOrder"
+			],
+			[
+				"pl",
+				"playlistOrder"
+			],
+			[
+				"current",
+				"currentSongIndex"
+			],
+			[
+				"Get",
+				"GetCurrentSong"
+			],
+			[
+				"book",
+				"bookListingArgs"
+			],
+			[
+				"num",
+				"numOfItems"
+			],
+			[
+				"feat",
+				"featureQuery"
+			],
+			[
+				"php",
+				"php\t<?php … ?>"
+			],
+			[
+				"select",
+				"selectedText"
+			],
+			[
+				"ran",
+				"randomNum"
+			],
+			[
+				"Init",
+				"InitReferralSection"
+			],
+			[
+				"el",
+				"elementId"
+			],
+			[
+				"voice",
+				"voiceoverPhoto"
+			],
+			[
+				"refer",
+				"referral"
+			],
+			[
+				"sec",
+				"sectionItemWrapperElem"
+			],
+			[
+				"sect",
+				"sectionContent"
+			],
+			[
+				"com",
+				"companyName"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"audio",
+				"audioElement"
+			],
+			[
+				"videoWrap",
+				"videoWrapperElement"
+			],
+			[
+				"wrap",
+				"flex-wrap"
+			],
+			[
+				"src",
+				"source\tTag"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"blogQu",
+				"blogQueryArgs"
+			],
+			[
+				"plugindb",
+				"pluginDbInteractionInstance"
+			],
+			[
+				"pluginDb",
+				"pluginDbInteractionInstance"
+			],
+			[
+				"get",
+				"GetLength"
+			],
+			[
+				"background",
+				"backgroundCanvasContext"
+			],
+			[
+				"backg",
+				"backgroundCanvasContext"
+			],
+			[
+				"Spot",
+				"Spotlight_HtmlDecorator"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"Update",
+				"UpdateListStatus"
+			],
+			[
+				"GetList",
+				"GetListStatus"
+			],
+			[
+				"subscriber",
+				"subscriberLists"
+			],
+			[
+				"arra",
+				"arrayOfLists"
+			],
+			[
+				"Up",
+				"Update_Contact"
+			],
+			[
+				"AC",
+				"AC_List"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"get_the",
+				"get_the_excerpt"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"click",
+				"clickCatcherElement"
+			],
+			[
+				"update",
+				"UpdateWithSubmitListener"
+			],
+			[
+				"confirm",
+				"ConfirmSubscriberDetailsUpdated"
+			],
+			[
+				"pop",
+				"PopulateFormWithSubscriberDetails"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"html",
+				"html\thtml_basic"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"CONTACT",
+				"CONTACT_NEW"
+			],
+			[
+				"Req",
+				"RequestFactory"
+			],
+			[
+				"Request",
+				"Request_GetContact"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "Package Control: re",
+		"selected_items":
+		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"launch br",
+				"Browser Integration: Launch Browser"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/freeedu.local/wp-content/themes/free_edu_v1"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/freeedu.local/wp-content/themes/free_edu_v1/home.php",
+		"/C/wamp/www/local.wordpressplayground.com/wp-content/themes/portfolioTheme/home.php",
+		"/C/wamp/www/local.wordpressplayground.com/wp-content/themes/portfolioTheme/scripts/audioPlayer.js",
+		"/C/wamp/www/local.wordpressplayground.com/wp-content/themes/portfolioTheme/style.css",
+		"/C/wamp/www/local.wordpressplayground.com/wp-content/themes/portfolioTheme/portfolio.sublime-project",
+		"/C/wamp/www/local.wordpressplayground.com/wp-content/themes/portfolioTheme/index.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/partials/listing.php",
+		"/C/wamp/www/fishsoundsvo.local/application.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/page-contact.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/page-application.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/functions.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/style.css",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/category.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/category-probono.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/index.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/style.css",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/author.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/footer.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/home.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/includes/themeSettings.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/header.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/functions.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/includes/postTypes.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/plugins/bookCustomPostType.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/plugins/siteStructureTaxonomy.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/singular.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/scripts/navigation.js",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/header.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/scripts/navigation.js",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/includes/userMeta.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/includes/woocommerce.php",
+		"/C/Users/Computer of DOOM/Desktop/testScript.html",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/assets/logo/logo_whitecapbooks_draft.svg",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/includes/shortcodes.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/includes/svgCollections.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/single.php",
+		"/C/Users/Computer of DOOM/Desktop/et_example.txt",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/includes/customTaxonomy.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/includes/customTaxonomy.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_002/includes/taxonomy.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/archive.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/category.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/tag.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/index.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/homepage.php",
+		"/C/wamp/www/local.commercialintegrator.com/wp-content/themes/commintegrator/functions.php",
+		"/C/wamp/www/local.commercialintegrator.com/wp-content/themes/commintegrator/includes/customFields.php",
+		"/C/wamp/www/local.commercialintegrator.com/wp-content/themes/commintegrator/dev/wp-config.php",
+		"/C/wamp/www/local.commercialintegrator.com/wp-content/themes/commintegrator/includes/themeSettings.php",
+		"/C/wamp/www/local.commercialintegrator.com/wp-content/themes/commintegrator/includes/postTypesAndTaxonomies.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/includes/adminInfo.php",
+		"/C/wamp/www/local.commercialintegrator.com/_wp-config.php",
+		"/C/wamp/www/local.commercialintegrator.com/wp-config.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/includes/customFields.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/includes/postTypes.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/single-book.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/single-author.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/includes/customFields.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/taxonomy.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/includes/utility.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_real/sidebar.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/style.css",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/functions.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/includes/quicktags.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/scripts/tinyMCE_testButton.js",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/includes/shortcodes.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/singular.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/home.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/includes/userMeta.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/scripts/lazyLoader.js",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/scripts/testLazyLoader.html",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/includes/widgets.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/header.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/footer.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/index.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/tag.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/archive.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/author.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks_001/category.php",
+		"/C/wamp/www/fishsoundsvo.local/.htaccess",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/footer.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/scripts/referrals.js",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/page.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/partial-listing.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/partial-listing-audio.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/partial-listing-post.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/partial-listing-video.php",
+		"/C/wamp/www/fishsoundsvo.local/email.php",
+		"/C/wamp/www/commercialintegrator.local/wp-content/themes/commercialintegrator/styles/footer.css",
+		"/C/wamp/www/commercialintegrator.local/wp-content/themes/commercialintegrator/archive.php",
+		"/C/wamp/www/commercialintegrator.local/wp-content/themes/commercialintegrator/functions.php",
+		"/C/wamp/www/commercialintegrator.local/wp-content/themes/commercialintegrator/index.php",
+		"/C/wamp/www/commercialintegrator.local/wp-content/themes/commercialintegrator/singular.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/includes/microdata.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/includes/postTypes.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/scripts/eventTracking.js",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/testpage.html",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/includes/widgets.php",
+		"/C/wamp/www/sweetbriarflorist.local/wp-content/plugins/zw_classes.php",
+		"/C/wamp/www/zackworden.local/wp-content/themes/zackworden2/single.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/scripts/contactForm.js",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/scripts/audioPlayer.js",
+		"/C/Users/Computer of DOOM/Desktop/button_play.svg",
+		"/C/Users/Computer of DOOM/Desktop/button_pause.svg",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/includes/svgCollection.php",
+		"/C/wamp/www/local.wordpress.com/wp-content/themes/twentyfourteen/category.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/scripts/videoPlayer.js",
+		"/C/wamp/www/zackworden.local/wp-content/themes/zackworden2/header.php",
+		"/C/wamp/www/zackworden.local/wp-content/themes/zackworden2/functions.php",
+		"/C/wamp/www/sweetbriarflorist.local/wp-content/themes/sweetbriar_v2/header.php",
+		"/C/wamp/www/sweetbriarflorist.local/wp-content/themes/sweetbriar_v2/index.php",
+		"/C/Users/Computer of DOOM/Desktop/placeholder.txt",
+		"/C/wamp/www/fishsoundsvo.local/wp-settings.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-config.php",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/includes/contentCollection.php",
+		"/C/wamp/www/fishsoundsvo.local/.gitignore",
+		"/C/wamp/www/sweetbriarflorist.local/.gitignore",
+		"/C/wamp/www/fishsoundsvo.local/wp-content/themes/fishsounds_v1/style.php",
+		"/C/Users/Computer of DOOM/Desktop/fishsounds/fishsounds_mock_1.css",
+		"/C/Users/Computer of DOOM/Desktop/fishsounds/fishsounds_mock_1.html",
+		"/C/tmp/iffc/functions.php",
+		"/C/tmp/iffc/index.php",
+		"/C/tmp/iffc/category-voiceover.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks/single.php",
+		"/C/wamp/www/whitecapbooks.local/wp-content/themes/whitecapbooks/index.php",
+		"/C/tmp/index.php",
+		"/C/tmp/old_wp_term_taxonomy.csv",
+		"/C/tmp/welcome.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\fishsoundsvo.local\\wp-content",
+			"C:\\wamp\\www\\local.wordpressplayground.com\\wp-admin\\includes",
+			"C:\\wamp\\www\\local.wordpressplayground.com\\wp-admin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"contactformarea",
+			"red#",
+			"22201E",
+			"004",
+			"form",
+			"hero",
+			"display:fle",
+			"text/javascript",
+			"<script>",
+			"args",
+			"spots",
+			"featured",
+			"font-weight",
+			"004",
+			"unfeat",
+			"#",
+			"Fish Sounds Voice over",
+			"Voiceover",
+			"voiceover",
+			"inputfield",
+			"socialList",
+			"contact",
+			"contact m",
+			"audioControl",
+			"indexSectionHeader",
+			".indexFeatured",
+			"categorylisting",
+			".desktopNav",
+			"transit",
+			"content",
+			"indexSection",
+			"format",
+			"isElementVisible",
+			"class",
+			"unerline",
+			"_wp_attached_file",
+			"select",
+			"select from",
+			"set-post-thumbnail",
+			"thumb",
+			"003",
+			"009",
+			"005",
+			"navcontain",
+			"photoFeature",
+			"''",
+			"frontPageFeature",
+			"animation",
+			"001",
+			"/*",
+			"techrect",
+			"animation:",
+			"SanitizeEmail",
+			"GetListStatus",
+			"bookmark",
+			"z-index",
+			".articleListing",
+			"001",
+			"mainheader",
+			"last name",
+			"fields",
+			"article",
+			"categ",
+			"submit",
+			"src=\"",
+			"post_type",
+			"register_",
+			"include",
+			"register_post",
+			"\\/",
+			"/\\",
+			"\\\\",
+			"\\",
+			"/",
+			"\\\\",
+			"\\",
+			"\\/",
+			"\\\\",
+			"\\",
+			"\\/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"application/javascript",
+			"<script type=\"text/javascript\">",
+			"Fish Sounds Voice Over",
+			"Voice over",
+			"isJumboVisible",
+			"'",
+			"\\",
+			"\\/",
+			"/\\",
+			"\\\\",
+			"\\",
+			"/",
+			"\\\\",
+			"\\",
+			"\\/",
+			"\\\\",
+			"\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/BuildSystems/openInFirefox.sublime-build",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Computer of DOOM\\Desktop\\testhtml.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
